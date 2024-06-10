@@ -1,1 +1,1 @@
-# statistics
+This repository includes an html R Markdown file that gives an example of how I tyically approach principal component analysis (PCA).  In this analysis, I used Z-scores to scale the data, although center log-ratios can sometimes do a better job of separating data.
